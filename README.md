@@ -46,15 +46,15 @@ That is why I am currently pursuing a dual masters degree at Georgia Tech majori
 ### My Projects
 Amazon Dissatisfaction Prediction | DL Web Application | Time Series Analysis | Writing Quality Prediction
 -------------- | ----------------- | -------------------- | ---------------------
-graph | Flask | Multivariate | Transformer seq-to-scaler
-👉 [Repo]([https://www.creative-tim.com/product/material-kit](https://github.com/PsyDak-Meng/Amazon-Dissatisfaction-Prediction)) | 👉 [Repo](https://www.creative-tim.com/product/soft-ui-dashboard) | 👉 [Repo](https://www.creative-tim.com/product/soft-ui-react-native) | 👉 [Repo](https://github.com/creativetimofficial/tailwind-starter-kit)
-✅ [Live Preview](https://demos.creative-tim.com/material-kit/index.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-react-native/) | ✅ [Live Preview](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
+Modeling user-product relations with Transformer initialized tripartite Graph Convolutional Network. | Vaccination adverse effect deep learning prediction presented on Flask & JS.D3 frontend. | Multivariate & statistical analysis on NYC crime tiem series data. | Input logs Transformer seq-to-seq embedded writing quality predictor.
+👉 [Repo](https://github.com/PsyDak-Meng/Amazon-Dissatisfaction-Prediction) | 👉 [Repo](https://www.creative-tim.com/product/soft-ui-dashboard) | 👉 [Repo](https://www.creative-tim.com/product/soft-ui-react-native) | 👉 [Repo](https://github.com/creativetimofficial/tailwind-starter-kit)
+✅ [Code Walkthrough](https://demos.creative-tim.com/material-kit/index.html) | ✅ [Code Walkthrough](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) | ✅ [Code Walkthrough](https://demos.creative-tim.com/soft-ui-react-native/) | ✅ [Code Walkthrough](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 ![Material Kit 2](Amazon.jpg) | ![Soft UI Dashboard](DLwebapp.jpg) | ![Soft UI React Native](ts.jpg)| ![Tailwind Starter Kit](kaggle.png)
 
 
 ## Contact me
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />]([https://github.com/creativetimofficial](https://github.com/PsyDak-Meng))  [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/creative-tim-1b54778b) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](dakotameng@gmail.com)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />]([https://github.com/creativetimofficial](https://github.com/PsyDak-Meng))  [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/creative-tim-1b54778b) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](dakotameng@gmail.com)
 
 <!--
 **PsyDak-Meng/PsyDak-Meng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
