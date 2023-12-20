@@ -10,26 +10,38 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-#### Tools:
+#### Tech Stack:
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
+<!--
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=PsyDak-Meng&count_private=true&show_icons=true&theme=prussian" width="400">
 <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsyDak-Meng&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </div>
+-->
 
 ### Hi there 👋 This is Cheting Meng's GIthub.
 
 ### About me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Greetings! My name is Che-ting Meng, you can call me Dakota. ;I finished my bachelors degree at National Taiwan University of Science and Technology majoring in Civil and Construction Engineering. Along with my training in becoming a civil engineer, I have always felt a passion for analyzing the numbers and data in my coding, mathematics and quantitative methods classes. After winning a national undergradute research award by performing data analysis on the energy consumption simulations, I was certain of my passion in analyzing and working with data.
+Greetings! My name is Che-ting Meng, you can call me Dakota. I finished my bachelors degree in Civil Engineering. Along with my training in becoming a civil engineer, I have always felt a passion for analyzing the numbers and data, and that I have a talent mathematics and quantitative methods. After winning a national undergradute research award by performing data analysis on the energy consumption simulations, I was certain of my passion in analyzing and working with data.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-That is why I am currently pursuing a dual masters degree at Georgia Tech majoring in Computaitonal Science and Engineering & Civil Engineering (Construction Infrastructure Systems Engineering). I am especially interested and devoted myself in machine learning algorithms numerical analysis, and I look forward to deploying them in a professional setting and the field of engineering.
+That is why I am currently pursuing a dual masters degree at Georgia Tech majoring in Computaitonal Science and Engineering. I am especially interested and devoted myself in machine learning algorithms numerical analysis, and I look forward to deploying them in a professional setting and the field of engineering.
 ### My Expertise
+- Statistical Modeling
+  -  Hidden Markov Models, Density Estimation, Kernel Methods, Bootstrapping, etc.
+- Machine Learning
+  - Classification: KNN, SVM, Logistic Regression, etc.
+  - Regression: Gradient Boosted Regression, Linear Regression, Gaussian mixture models, etc.
+  - Dimensionality Reduction: PCA, t-SNE, Autoencoder, Isomap, etc.
+- NLP
+  -  Word2Vec, NLU, NLG, Attention Mechanism, Transformer, LLM, etc.
+- Computer Vision
+  -  Object Detection, Instance Segmentation, etc.
 
 ### My Projects
 Amazon Dissatisfaction Prediction | DL Web Application | Time Series Analysis | Writing Quality Prediction
