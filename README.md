@@ -1,5 +1,8 @@
 
 ![banner](git_header.png)
+### 👋 Greetings~ You've found the Github of Cheting Meng
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PsyDak-Meng&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PsyDak-Meng&theme=nord_bright)      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PsyDak-Meng&theme=nord_bright)
 
 #### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,20 +18,6 @@
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-<!--
-<div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PsyDak-Meng&count_private=true&show_icons=true&theme=prussian" width="400">
-<br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsyDak-Meng&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</div>
--->
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PsyDak-Meng&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PsyDak-Meng&theme=nord_bright)      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PsyDak-Meng&theme=nord_bright)
-
-
-### 👋 Greetings~ You've found the Github of Cheting Meng
 
 ### About me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
