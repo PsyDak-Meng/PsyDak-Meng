@@ -37,7 +37,7 @@ Amazon Dissatisfaction Prediction | DL Web Application | Time Series Analysis | 
 graph | Flask | Multivariate | Transformer seq-to-scaler
 👉 [Repo](https://www.creative-tim.com/product/material-kit) | 👉 [Repo](https://www.creative-tim.com/product/soft-ui-dashboard) | 👉 [Repo](https://www.creative-tim.com/product/soft-ui-react-native) | 👉 [Repo](https://github.com/creativetimofficial/tailwind-starter-kit)
 ✅ [Live Preview](https://demos.creative-tim.com/material-kit/index.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-react-native/) | ✅ [Live Preview](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
-![Material Kit 2](Amazon.jpg) | ![Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816) | ![Soft UI React Native](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346)| ![Tailwind Starter Kit](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/creative-tim/opt_tsp_tailwindcss_thumbnail.jpg)
+![Material Kit 2](Amazon.jpg) | ![Soft UI Dashboard](DLwebapp.jpg) | ![Soft UI React Native](ts.jpg)| ![Tailwind Starter Kit](p2q.jpg)
 
 
 ## Contact me
