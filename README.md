@@ -24,22 +24,26 @@
 </div>
 -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PsyDak-Meng&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PsyDak-Meng&theme=nord_bright)      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PsyDak-Meng&theme=nord_bright)
+
+
 ### Hi there 👋 This is Cheting Meng's GIthub.
 
 ### About me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Greetings! My name is Che-ting Meng, you can call me Dakota. I finished my bachelors degree in Civil Engineering. Along with my training in becoming a civil engineer, I have always felt a passion for analyzing the numbers and data, and that I have a talent mathematics and quantitative methods. After winning a national undergradute research award by performing data analysis on the energy consumption simulations, I was certain of my passion in analyzing and working with data.
+Greetings! My name is Che-ting Meng, you can call me Dakota. I finished my bachelors degree in Civil Engineering. While studying engineering, I have always felt a passion for data modeling, and that I have a talent mathematics and quantitative methods. After winning a national undergradute research award by performing data analysis on the energy consumption simulations, I was certain of my passion in analyzing and working with data.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-That is why I am currently pursuing a dual masters degree at Georgia Tech majoring in Computaitonal Science and Engineering. I am especially interested and devoted myself in machine learning algorithms numerical analysis, and I look forward to deploying them in a professional setting and the field of engineering.
+That is why I am currently pursuing a dual masters degree at Georgia Tech majoring in Computaitonal Science and Engineering. I am especially dedicated in machine learning algorithms and applications. I look forward to deploying them in a professional setting and the field of engineering.
 ### My Expertise
 - Statistical Modeling
-  -  Hidden Markov Models, Density Estimation, Kernel Methods, Bootstrapping, etc.
+  -  Hidden Markov Models, Density Estimation, Kernel Methods, Bootstrapping, etc;
 - Machine Learning
-  - Classification: KNN, SVM, Logistic Regression, etc.
-  - Regression: Gradient Boosted Regression, Linear Regression, Gaussian mixture models, etc.
-  - Dimensionality Reduction: PCA, t-SNE, Autoencoder, Isomap, etc.
+  - Classification: KNN, SVM, Logistic Regression, etc;
+  - Regression: Gradient Boosted Regression, Linear Regression, Gaussian mixture models, etc;
+  - Dimensionality Reduction: PCA, t-SNE, Autoencoder, Isomap, etc;
 - NLP
-  -  Word2Vec, NLU, NLG, Attention Mechanism, Transformer, LLM, etc.
+  -  Word2Vec, NLU, NLG, Attention Mechanism, Transformer, LLM, etc;
 - Computer Vision
   -  Object Detection, Instance Segmentation, etc.
 
