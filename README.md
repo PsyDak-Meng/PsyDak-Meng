@@ -47,7 +47,7 @@ That is why I am currently pursuing a dual masters degree at Georgia Tech majori
 Amazon Dissatisfaction Prediction | DL Web Application | Time Series Analysis | Writing Quality Prediction
 -------------- | ----------------- | -------------------- | ---------------------
 graph | Flask | Multivariate | Transformer seq-to-scaler
-👉 [Repo](https://www.creative-tim.com/product/material-kit) | 👉 [Repo](https://www.creative-tim.com/product/soft-ui-dashboard) | 👉 [Repo](https://www.creative-tim.com/product/soft-ui-react-native) | 👉 [Repo](https://github.com/creativetimofficial/tailwind-starter-kit)
+👉 [Repo]([https://www.creative-tim.com/product/material-kit](https://github.com/PsyDak-Meng/Amazon-Dissatisfaction-Prediction)) | 👉 [Repo](https://www.creative-tim.com/product/soft-ui-dashboard) | 👉 [Repo](https://www.creative-tim.com/product/soft-ui-react-native) | 👉 [Repo](https://github.com/creativetimofficial/tailwind-starter-kit)
 ✅ [Live Preview](https://demos.creative-tim.com/material-kit/index.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-react-native/) | ✅ [Live Preview](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 ![Material Kit 2](Amazon.jpg) | ![Soft UI Dashboard](DLwebapp.jpg) | ![Soft UI React Native](ts.jpg)| ![Tailwind Starter Kit](kaggle.png)
 
