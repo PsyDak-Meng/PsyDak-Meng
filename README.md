@@ -28,15 +28,15 @@ So, now I'm pursuing a dual Masters degree at Georgia Tech in Computaitonal Scie
 #### Statistical   Modeling | Machine Learning | NLP | Computer Vision
 
 ### My Projects
-Amazon Dissatisfaction Prediction | DL Web Application | Time Series Analysis | Writing Quality Prediction
+Amazon Dissatisfaction Prediction | DL Web Application | Inundation Traffic Simulation | Writing Quality Prediction
 -------------- | ----------------- | -------------------- | ---------------------
-Modeling user-product relations with Transformer initialized tripartite Graph Convolutional Network. | Vaccination adverse effect deep learning prediction presented on Flask & JS.D3 frontend. | Multivariate & statistical analysis on NYC crime tiem series data. | Input logs Transformer seq-to-seq embedded writing quality predictor.
-👉 [Repo](https://github.com/PsyDak-Meng/Amazon-Dissatisfaction-Prediction) | 👉 [Repo](https://github.com/PsyDak-Meng/VAE_Insight) | 👉 [Repo](https://www.creative-tim.com/product/soft-ui-react-native) | 👉 [Repo](https://github.com/PsyDak-Meng/Writing_P2Q) 
-![Material Kit 2](Amazon.jpg) | ![Soft UI Dashboard](DLwebapp.jpg) | ![Soft UI React Native](ts.jpg)| ![Tailwind Starter Kit](kaggle.png)
+Modeling user-product relations with Transformer initialized tripartite Graph Convolutional Network. | Vaccination adverse effect deep learning prediction presented on Flask & JS.D3 frontend. | Agent-based modeling for traffic simulation under flood distress. | Input logs Transformer seq-to-seq embedded writing quality predictor.
+👉 [Repo](https://github.com/PsyDak-Meng/Amazon-Dissatisfaction-Prediction) | 👉 [Repo](https://github.com/PsyDak-Meng/VAE_Insight) | 👉 [Repo](https://github.com/PsyDak-Meng/Inundation_Traffic_Simulation) | 👉 [Repo](https://github.com/PsyDak-Meng/Writing_P2Q) 
+![Material Kit 2](Amazon.jpg) | ![Soft UI Dashboard](DLwebapp.jpg) | ![Soft UI React Native](traffic.jpg)| ![Tailwind Starter Kit](kaggle.png)
 
 <!--
 ✅ [Code Walkthrough](https://demos.creative-tim.com/material-kit/index.html) | ✅ [Code Walkthrough](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) | ✅ [Code Walkthrough](https://demos.creative-tim.com/soft-ui-react-native/) | ✅ [Code Walkthrough](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
-![Material Kit 2](Amazon.jpg) | ![Soft UI Dashboard](DLwebapp.jpg) | ![Soft UI React Native](ts.jpg)| ![Tailwind Starter Kit](kaggle.png)
+![Material Kit 2](Amazon.jpg) | ![Soft UI Dashboard](DLwebapp.jpg) | ![Soft UI React Native](traffic.jpg)| ![Tailwind Starter Kit](kaggle.png)
 -->
 
 ## Contact me
