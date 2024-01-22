@@ -1,5 +1,5 @@
 
-![banner](git_header.png)
+<!-- ![banner](git_header.png) -->
 ### 👋 Greetings~ You've found the Github of Cheting Meng
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PsyDak-Meng&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PsyDak-Meng&theme=nord_bright)      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PsyDak-Meng&theme=nord_bright)
