@@ -30,7 +30,7 @@ Amazon Dissatisfaction GNN Prediction | NLP Web Application | PalmVerse: Compute
 -------------- | ----------------- | -------------------- | ---------------------
 Modeling user-product relations with Transformer embedded tripartite Graph Convolutional Network (GCN). | Vaccination adverse effect deep learning prediction presented on Flask & JS.D3 frontend. | OpenCV & CNN based attention model enabled real-time videostream sign language to textual and audio output.  | Bayesian optimization for optimal selection of LLM evaluation corpus.
 👉 [Repo](https://github.com/PsyDak-Meng/Amazon-Dissatisfaction-Prediction) | 👉 [Repo](https://github.com/PsyDak-Meng/VAE_Insight) | 👉 [Repo](https://github.com/PsyDak-Meng/PalmVerse) | 👉 [Repo](https://github.com/rentruewang/bocoel) 
-![Material Kit 2](Amazon.jpg) | ![Soft UI Dashboard](DLwebapp.jpg) | ![Soft UI React Native](traffic.jpg)| ![Tailwind Starter Kit](kaggle.png)
+![Material Kit 2](Amazon.jpg) | ![Soft UI Dashboard](DLwebapp.jpg) | ![Soft UI React Native](asl.png)| ![Tailwind Starter Kit](bocoel.png)
 
 <!--
 ✅ [Code Walkthrough](https://demos.creative-tim.com/material-kit/index.html) | ✅ [Code Walkthrough](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) | ✅ [Code Walkthrough](https://demos.creative-tim.com/soft-ui-react-native/) | ✅ [Code Walkthrough](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
