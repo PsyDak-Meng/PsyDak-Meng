@@ -26,10 +26,10 @@ So, now I'm pursuing a dual Masters degree at Georgia Tech in Computaitonal Scie
 #### Statistical   Modeling | Machine Learning | NLP | Computer Vision
 
 ### My Projects
-Amazon Dissatisfaction Prediction | DL Web Application | Inundation Traffic Simulation | Writing Quality Prediction
+Amazon Dissatisfaction GNN Prediction | NLP Web Application | PalmVerse: Computer Vision Hand Sign to Text & Audio | BoCoEl: LLM Efficient Evaluation Tool
 -------------- | ----------------- | -------------------- | ---------------------
-Modeling user-product relations with Transformer initialized tripartite Graph Convolutional Network. | Vaccination adverse effect deep learning prediction presented on Flask & JS.D3 frontend. | Agent-based modeling for traffic simulation under flood distress. | Input logs Transformer seq-to-seq embedded writing quality predictor.
-👉 [Repo](https://github.com/PsyDak-Meng/Amazon-Dissatisfaction-Prediction) | 👉 [Repo](https://github.com/PsyDak-Meng/VAE_Insight) | 👉 [Repo](https://github.com/PsyDak-Meng/Inundation_Traffic_Simulation) | 👉 [Repo](https://github.com/PsyDak-Meng/Writing_P2Q) 
+Modeling user-product relations with Transformer embedded tripartite Graph Convolutional Network (GCN). | Vaccination adverse effect deep learning prediction presented on Flask & JS.D3 frontend. | OpenCV & CNN based attention model enabled real-time videostream sign language to textual and audio output.  | Bayesian optimization for optimal selection of LLM evaluation corpus.
+👉 [Repo](https://github.com/PsyDak-Meng/Amazon-Dissatisfaction-Prediction) | 👉 [Repo](https://github.com/PsyDak-Meng/VAE_Insight) | 👉 [Repo](https://github.com/PsyDak-Meng/PalmVerse) | 👉 [Repo](https://github.com/rentruewang/bocoel) 
 ![Material Kit 2](Amazon.jpg) | ![Soft UI Dashboard](DLwebapp.jpg) | ![Soft UI React Native](traffic.jpg)| ![Tailwind Starter Kit](kaggle.png)
 
 <!--
