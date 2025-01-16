@@ -18,10 +18,9 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### About me
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-I'm Cheting Meng, call me Dakota. I finished my bachelors in Civil Engineering. While studying engineering, I always felt a passion for data & modeling, and that I have a talent in mathematics and quantitative methods. After winning a national undergradute research award performing data analysis on the energy consumption simulations, I was certain of my passion in working with data.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-So, now I'm pursuing a dual Masters degree at Georgia Tech in Computaitonal Science and Engineering. I am especially dedicated in machine learning algorithms and applications. I look forward to deploying them in a professional setting and the field of engineering.
+- GRA @ Georgia Tech
+- Ex. ML Research Engineer Intern @ Noteworthy.ai
+
 ### My Expertise
 #### Statistical   Modeling | Machine Learning | NLP | Computer Vision
 
