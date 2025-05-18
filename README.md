@@ -18,8 +18,8 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### About me
-- GRA @ Georgia Tech
-- Ex. ML Research Engineer Intern @ Noteworthy.ai
+- Machine Learning & Data Engineer @ Noteworthy.ai
+- Ex. Masters GRA @ Georgia Tech
 
 ### My Expertise
 #### Statistical   Modeling | Machine Learning | NLP | Computer Vision
