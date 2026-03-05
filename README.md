@@ -1,8 +1,6 @@
 
 <!-- ![banner](git_header.png) -->
 ### 👋 Greetings~ You've found the Github of Cheting Meng
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PsyDak-Meng&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PsyDak-Meng&theme=nord_bright)      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PsyDak-Meng&theme=nord_bright)
 
 #### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
